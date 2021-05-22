@@ -1,9 +1,0 @@
-C:\Users\s s infotech\source\repos\DepartmentalStore\DepartmentalStore.Domain\bin\Debug\netcoreapp3.1\DepartmentalStore.Domain.deps.json
-C:\Users\s s infotech\source\repos\DepartmentalStore\DepartmentalStore.Domain\bin\Debug\netcoreapp3.1\DepartmentalStore.Domain.dll
-C:\Users\s s infotech\source\repos\DepartmentalStore\DepartmentalStore.Domain\bin\Debug\netcoreapp3.1\DepartmentalStore.Domain.pdb
-C:\Users\s s infotech\source\repos\DepartmentalStore\DepartmentalStore.Domain\obj\Debug\netcoreapp3.1\DepartmentalStore.Domain.csprojAssemblyReference.cache
-C:\Users\s s infotech\source\repos\DepartmentalStore\DepartmentalStore.Domain\obj\Debug\netcoreapp3.1\DepartmentalStore.Domain.AssemblyInfoInputs.cache
-C:\Users\s s infotech\source\repos\DepartmentalStore\DepartmentalStore.Domain\obj\Debug\netcoreapp3.1\DepartmentalStore.Domain.AssemblyInfo.cs
-C:\Users\s s infotech\source\repos\DepartmentalStore\DepartmentalStore.Domain\obj\Debug\netcoreapp3.1\DepartmentalStore.Domain.csproj.CoreCompileInputs.cache
-C:\Users\s s infotech\source\repos\DepartmentalStore\DepartmentalStore.Domain\obj\Debug\netcoreapp3.1\DepartmentalStore.Domain.dll
-C:\Users\s s infotech\source\repos\DepartmentalStore\DepartmentalStore.Domain\obj\Debug\netcoreapp3.1\DepartmentalStore.Domain.pdb
